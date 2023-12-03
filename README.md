@@ -19,7 +19,7 @@ It is food ordering website with user authentication created using HTML,CSS,Java
 
 -- use coupons for discount
 
-## It is a personal project so it has some missing features unlike other food ordering site which are 
+## Missing features on Foddy Adda
 -- real time delivery system
 
 -- payment gateway
