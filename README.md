@@ -2,27 +2,27 @@
 
 ## Check out the FoodyAdda website at below :-
 
-[Foody-Adda](http://foodyadda.rf.gd/)
+![Foody-Adda](http://foodyadda.rf.gd/)
 
 ## About FoodyAdda Website 
 
 It is food ordering website with user authentication created using HTML,CSS,Javascript,PHP(for backend) and Bootstrap
 
 ## In this app user can
--- login/signup with their email id and password.
+- login/signup with their email id and password.
 
--- checkout the menu of the store
+- checkout the menu of the store
 
--- add food items to the cart
+- add food items to the cart
 
--- edit food items on cart
+- edit food items on cart
 
--- use coupons for discount
+- use coupons for discount
 
 ## Missing features on Foddy Adda
--- real time delivery system
+- real time delivery system
 
--- payment gateway
+- payment gateway
 
--- real time map viewing
+- real time map viewing
 
