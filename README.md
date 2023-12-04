@@ -2,7 +2,7 @@
 
 ## Check out the FoodyAdda website at below :-
 
-![Foody-Adda](http://foodyadda.rf.gd/)
+[Foody-Adda](http://foodyadda.rf.gd/)
 
 ## About FoodyAdda Website 
 
